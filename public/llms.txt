@@ -1,0 +1,5 @@
+## Pages
+- [LIAVEX - Soluciones Tecnológicas de Seguridad y Automatización](/home): Expertos en cámaras de seguridad, control de acceso, mantenimiento de computadoras y automatización en Ecuador. Soluciones corporativas y residenciales.
+- [Nosotros - LIAVEX | Empresa de Tecnología en Ecuador](/about): Conoce al equipo de LIAVEX. Historia, valores y equipo técnico profesional en Quito.
+- [Novedades y Noticias - LIAVEX](/news): Últimas noticias, proyectos completados y eventos de LIAVEX Tecnología.
+- [Nuestros Servicios - LIAVEX](/services): Catálogo completo de servicios LIAVEX: Cámaras, Biométricos, Puertas Automáticas, Proyectores, Computación, Impresoras y Capacitación.
