@@ -36,8 +36,8 @@ const Navigation = () => {
 
   const socialLinks = [
     { icon: Facebook, href: 'https://www.facebook.com/share/18KQdZ5zyG/?mibextid=wwXIfr', label: 'Facebook', color: 'hover:text-blue-600' },
-    { icon: Instagram, href: 'https://instagram.com/tu-usuario', label: 'Instagram', color: 'hover:text-pink-600' },
-    { icon: Music2, href: 'https://tiktok.com/@tu-usuario', label: 'TikTok', color: 'hover:text-black' }, // Music2 para TikTok
+    { icon: Instagram, href: 'https://www.instagram.com/liavex.ec?igsh=MTRibHNtMzI3OWplYw==', label: 'Instagram', color: 'hover:text-pink-600' },
+    { icon: Music2, href: 'https://www.tiktok.com/@liavex.ec?_r=1&_t=ZS-9506xOIjZbO', label: 'TikTok', color: 'hover:text-black' }, // Music2 para TikTok
   ];
 
   const isActive = path => location.pathname === path;

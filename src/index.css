@@ -1,20 +1,28 @@
+/* stylelint-disable at-rule-no-unknown */
+/* stylelint-disable-next-line at-rule-no-unknown */
 @tailwind base;
+/* stylelint-disable-next-line at-rule-no-unknown */
 @tailwind components;
+/* stylelint-disable-next-line at-rule-no-unknown */
 @tailwind utilities;
+/* stylelint-enable at-rule-no-unknown */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
 
 body {
   font-family: 'Inter', sans-serif;
+  /* stylelint-disable-next-line at-rule-no-unknown */
   @apply bg-white text-gray-900;
 }
 
 @layer base {
   * {
+    /* stylelint-disable-next-line at-rule-no-unknown */
     @apply border-gray-200;
   }
   
   h1, h2, h3, h4, h5, h6 {
+    /* stylelint-disable-next-line at-rule-no-unknown */
     @apply font-bold;
   }
 }
@@ -31,13 +39,16 @@ body {
 }
 
 ::-webkit-scrollbar-track {
+  /* stylelint-disable-next-line at-rule-no-unknown */
   @apply bg-gray-100;
 }
 
 ::-webkit-scrollbar-thumb {
+  /* stylelint-disable-next-line at-rule-no-unknown */
   @apply bg-gray-400 rounded-full;
 }
 
 ::-webkit-scrollbar-thumb:hover {
+  /* stylelint-disable-next-line at-rule-no-unknown */
   @apply bg-gray-500;
 }

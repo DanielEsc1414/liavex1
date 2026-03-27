@@ -33,7 +33,7 @@ const About = () => {
               </div>
             </div>
             <div className="rounded-2xl overflow-hidden shadow-xl">
-              <img alt="Reunión corporativa equipo LIAVEX" className="w-full object-cover h-[400px]" src="https://i.postimg.cc/Gh0kn16v/Whats-App-Image-2026-03-24-at-8-28-05-AM.jpg" />
+              <img alt="Reunión corporativa equipo LIAVEX" className="w-full object-cover " src="https://i.postimg.cc/MHBLb2NF/Gemini-Generated-Image-m7n88gm7n88gm7n8.png" />
             </div>
           </div>
 
@@ -50,7 +50,7 @@ const About = () => {
             once: true
           }} className="text-center group">
               <div className="w-32 h-32 mx-auto bg-gray-100 rounded-full mb-4 overflow-hidden border-4 border-white shadow-lg group-hover:border-blue-500 transition-colors">
-                <img alt="CEO LIAVEX - Director General" className="w-full h-full object-cover" src="https://images.unsplash.com/photo-1701085590448-acfbb89e9d61" />
+                <img alt="CEO LIAVEX - Director General" className="w-full h-full object-cover" src="https://i.postimg.cc/NfMKJCLb/ceo.png" />
               </div>
               <h3 className="font-bold text-lg">CEO - Gerente General</h3>
               <p className="text-blue-600 text-sm">Liderazgo y Estrategia</p>
@@ -69,7 +69,7 @@ const About = () => {
             delay: 0.1
           }} className="text-center group">
               <div className="w-32 h-32 mx-auto bg-gray-100 rounded-full mb-4 overflow-hidden border-4 border-white shadow-lg group-hover:border-blue-500 transition-colors">
-                <img alt="Jefe Técnico de Instalaciones" className="w-full h-full object-cover" src="https://i.postimg.cc/90Gj07sw/Gemini-Generated-Image-1nknn1nknn1nknn1.png" />
+                <img alt="Jefe Técnico de Instalaciones" className="w-full h-full object-cover" src="https://i.postimg.cc/8P57KXs4/jefe_tecnico.png" />
               </div>
               <h3 className="font-bold text-lg">Jefe Técnico</h3>
               <p className="text-blue-600 text-sm">Proyectos e Instalaciones</p>

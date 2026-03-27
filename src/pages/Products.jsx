@@ -234,6 +234,15 @@ const Products = () => {
       desc: 'Control de asistencia y acceso - Rostro/Huella/Contraseña/Tarjeta',
       price: 'Consultar'
     }]
+  }, {
+    category: 'Gadgets',
+    items: [{
+      id: 'g1',
+      image: 'https://i.postimg.cc/6QGCQWZx/Gemini-Generated-Image-2nxzcd2nxzcd2nxz.png', // Agregar enlace de imagen aquí
+      name: 'Soporte para Celular',
+      desc: 'Dji osmo mobile 7 - Estabilizador para smartphone con control de gestos y seguimiento inteligente',
+      price: 'Consultar'
+    }]
   }];
   const addToCart = product => {
     setCart(prev => {
