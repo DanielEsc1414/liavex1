@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom';
 import { Shield, Cpu, Wrench, ArrowRight, CheckCircle2, Star, Zap } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import TrainingHighlight from '@/components/TrainingHighlight';
-import PhotoCarousel from '@/components/PhotoCarousel';
 const Home = () => {
   const services = [{
     icon: Shield,
@@ -220,9 +219,6 @@ const Home = () => {
           <TrainingHighlight />
         </div>
       </section>
-
-      {/* Photo Carousel */}
-      <PhotoCarousel />
 
       {/* Testimonials */}
       <section className="py-20 bg-blue-50">
