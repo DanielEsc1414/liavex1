@@ -20,6 +20,7 @@ jobs:
           npm install
           node tools/generate-llms.js || true
           npx vite build
+          node node_modules/vite/bin/vite.js build
         env:
           CI: false
 
